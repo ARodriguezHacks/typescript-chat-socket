@@ -1,0 +1,18 @@
+{
+  "name": "socket-typescript-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angie Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.22.15",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
